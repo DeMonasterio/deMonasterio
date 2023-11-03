@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal projects.
 - 💬 Ask me about games, physics and code.
 - 🌱 I’m currently learning as much as I can.
-- ⚡ Fun fact: I started coding cause i like redstone in minecraft <img alt="Redstone" width="16" src="https://th.bing.com/th/id/OIP.Ie9HUuiG-WadFC75KXS3AAHaHa?pid=ImgDet&rs=1" />
+- ⚡ Fun fact: I started coding cause i wanted to understand how minecraft works <img alt="Pickaxe" width="25" src="https://img.icons8.com/?size=256&id=AUcZmbtqT16i&format=png" />
 
 ## 💬 Contact
 
